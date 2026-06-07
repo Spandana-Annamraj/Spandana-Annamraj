@@ -4,7 +4,7 @@
   Computer Science Student · Full-Stack Developer · MERN Stack · Java Backend<br/>
   📍 Hyderabad, India &nbsp;|&nbsp;
   <a href="mailto:spandana.annamraj30@gmail.com">Email</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/spandana-annamraj">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/spandana-annamraj-9b34472b8/">LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://github.com/Spandana-Annamraj">GitHub</a>
 </p>
 
