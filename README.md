@@ -3,7 +3,7 @@
 <p align="center">
   Computer Science Student · Full-Stack Developer · MERN Stack · Java Backend<br/>
   📍 Hyderabad, India &nbsp;|&nbsp;
-  <a href="mailto:spandana.annamraj30@gmail.com">Email</a> &nbsp;|&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&to=spandana.annamraj30@gmail.com">Email</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/spandana-annamraj-9b34472b8/">LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://github.com/Spandana-Annamraj">GitHub</a>
 </p>
@@ -51,8 +51,8 @@ Built and deployed a full-stack hackathon platform using React.js, Node.js, and 
 | Project | Description | Stack |
 |---|---|---|
 | [Hackathon Evaluation Platform](https://github.com/Spandana-Annamraj/hackathon-platform) | Full-stack hackathon management system with team registration, project submission, scoring, and real-time leaderboard across 3 role-based dashboards | MongoDB · Express.js · React.js · Node.js · JWT |
-| Maze Generator & Solver | Interactive maze generation and pathfinding visualizer using recursive DFS and backtracking, with multi-threaded real-time rendering | Java · OOP · Algorithms |
-| AI Voice Virtual Assistant | Context-aware voice assistant with speech recognition, LLM-driven responses, and text-to-speech for multi-turn conversations | Python · Speech Recognition · LLM APIs |
+| [Maze Generator & Solver](https://github.com/Spandana-Annamraj/Maze_Solver) | Interactive maze generation and pathfinding visualizer using recursive DFS and backtracking, with multi-threaded real-time rendering | Java · OOP · Algorithms |
+| [AI Voice Virtual Assistant](https://github.com/Spandana-Annamraj/voice-assistant) | Context-aware voice assistant with speech recognition, LLM-driven responses, and text-to-speech for multi-turn conversations | Python · Speech Recognition · LLM APIs |
 
 ---
 
